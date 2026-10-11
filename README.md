@@ -6,17 +6,27 @@ Dev GT is a new local competition focused in developing programming skills by co
 ## TO DO
 
 - [ ] Front Sensor Cluster
-    - [ ] Schematic
+    - [x] [Schematic](#schematics)
     - [ ] PCB
+    - [ ] Case
 - [ ] Rear Sensor Cluster
     - [ ] Schematic
     - [ ] PCB
+    - [ ] Case
 - [ ] Sides Sensor Clusters
     - [ ] Schematic
     - [ ] PCB
+    - [ ] Case
 - [ ] Mainboard 
     - [ ] Schematic
     - [ ] PCB
+    - [ ] Case
 - [ ] Chassis
 - [ ] Steering System
 - [ ] Power Train
+
+## Schematics
+
+|Part | Image|
+|----|----|
+|[Front Sensor Cluster PDF](Schematics/Front_Sensor_Cluster) | <img width=720 src="Schematics/img/Front_Sensor_Cluster.png">|
