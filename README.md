@@ -7,7 +7,7 @@ Dev GT is a new local competition focused in developing programming skills by co
 
 - [ ] Front Sensor Cluster
     - [x] [Schematic](#schematics)
-    - [ ] PCB
+    - [x] [PCB](#pcbs)
     - [ ] Case
 - [ ] Rear Sensor Cluster
     - [ ] Schematic
@@ -29,4 +29,11 @@ Dev GT is a new local competition focused in developing programming skills by co
 
 |Part | Image|
 |----|----|
-|[Front Sensor Cluster PDF](Schematics/Front_Sensor_Cluster) | <img width=720 src="Schematics/img/Front_Sensor_Cluster.png">|
+|[Front Sensor Cluster PDF](Schematics/Front_Sensor_Cluster) | <img width=720 src="Schematics/img/Front_Sensor_Cluster_Sch.png">|
+
+
+## PCBs
+
+|Part | Image|
+|----|----|
+|[Front Sensor Cluster PDF](PCB/Front_Sensor_Cluster_PCB) | <img width=720 src="PCB/img/Front_Sensor_Cluster_PCB.png">|
